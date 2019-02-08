@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db32456-e949-45ae-97c9-36bfbe2d6be3" name="Default Changelist" comment="" />
+    <list default="true" id="2db32456-e949-45ae-97c9-36bfbe2d6be3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/exercices.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercices.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/exercices.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -37,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -46,11 +51,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1986" />
-    <option name="y" value="1076" />
+    <option name="x" value="66" />
+    <option name="y" value="-4" />
     <option name="width" value="1855" />
     <option name="height" value="1085" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,7 +129,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1986" y="1076" width="1855" height="1085" extended-state="6" />
+    <frame x="66" y="-4" width="1855" height="1085" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986301" />
@@ -155,7 +162,7 @@
     <entry file="file://$PROJECT_DIR$/exercices.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
