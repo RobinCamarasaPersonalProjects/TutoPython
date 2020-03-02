@@ -1,5 +1,7 @@
 from exercices import *
 
+
 if __name__ == '__main__':
-    pass
+    # Execution of fun
+    print()
 
