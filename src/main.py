@@ -1,3 +1,5 @@
 from exercices import *
 
-print(ex_3(100))
+if __name__ == '__main__':
+    pass
+
